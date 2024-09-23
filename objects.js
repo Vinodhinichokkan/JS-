@@ -25,7 +25,29 @@ console.log(Object.values (cinema));
 
 
 const channel ={
+    actor: "vinodhini",
+    music: "hari",
+    director: "riyaan",
+    producer: "abi" 
+};
+
+console.log(channel.hasOwnProperty("producer"));
+
+console.log(Object.values(channel));
 
 
+for (let job in channel){
+    console.log(`${job},it's ${channel[job]}`);
 
 }
+
+/*actor,it's vinodhini
+music,it's hari
+director,it's riyaan
+producer,it's abi */ 
+
+
+
+
+
+
