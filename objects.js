@@ -44,7 +44,7 @@ for (let job in channel){
 /*actor,it's vinodhini
 music,it's hari
 director,it's riyaan
-producer,it's abi */ 
+producer,it's abi */
 
 
 
