@@ -19,7 +19,7 @@ const cinema = {
     producer: "abi" 
 };
 
-console.log(Object.values (cinema));
+console.log(Object.values (cinema)); 
 
 //[ 'vinodhini', 'hari', 'riyaan', 'abi' ]
 
@@ -51,3 +51,8 @@ producer,it's abi */
 
 
 
+
+
+
+
+ 

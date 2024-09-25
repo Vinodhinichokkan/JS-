@@ -15,4 +15,4 @@ console.log(anotherPizza.size)
 anotherPizza.bake();       
 
 /* small
-   Baking a small original crust pizza */
+   Baking a small original crust pizza */ 
