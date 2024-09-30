@@ -24,3 +24,11 @@ class pizza {
 
 const anotherPizza = new pizza();
 console.log(anotherPizza.size)        //medium
+
+
+
+
+
+
+
+
